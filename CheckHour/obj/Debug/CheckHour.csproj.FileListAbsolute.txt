@@ -1,0 +1,14 @@
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\bin\Debug\CheckHour.exe.config
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\bin\Debug\CheckHour.exe
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\bin\Debug\CheckHour.pdb
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\obj\Debug\CheckHour.csprojResolveAssemblyReference.cache
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\obj\Debug\MainWindow.g.cs
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\obj\Debug\App.g.cs
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\obj\Debug\CheckHour_MarkupCompile.cache
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\obj\Debug\CheckHour_MarkupCompile.lref
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\obj\Debug\MainWindow.baml
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\obj\Debug\CheckHour.g.resources
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\obj\Debug\CheckHour.Properties.Resources.resources
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\obj\Debug\CheckHour.csproj.GenerateResource.Cache
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\obj\Debug\CheckHour.exe
+c:\users\huumq\documents\visual studio 2015\Projects\CheckHour\CheckHour\obj\Debug\CheckHour.pdb

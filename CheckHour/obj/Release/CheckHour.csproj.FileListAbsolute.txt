@@ -1,0 +1,13 @@
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\bin\Release\CheckHour.exe.config
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\bin\Release\CheckHour.exe
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\bin\Release\CheckHour.pdb
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\obj\Release\MainWindow.g.cs
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\obj\Release\App.g.cs
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\obj\Release\CheckHour_MarkupCompile.cache
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\obj\Release\CheckHour_MarkupCompile.lref
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\obj\Release\MainWindow.baml
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\obj\Release\CheckHour.g.resources
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\obj\Release\CheckHour.Properties.Resources.resources
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\obj\Release\CheckHour.csproj.GenerateResource.Cache
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\obj\Release\CheckHour.exe
+C:\Users\huumq\Documents\Visual Studio 2015\Projects\CheckHour\CheckHour\obj\Release\CheckHour.pdb

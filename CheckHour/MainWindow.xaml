@@ -1,0 +1,21 @@
+﻿<Window x:Class="CheckHour.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckHour"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label" Content="Start Time:" HorizontalAlignment="Left" Height="23.863" Margin="58.216,55.595,0,0" VerticalAlignment="Top" Width="79.261" HorizontalContentAlignment="Right"/>
+        <Label x:Name="label1" Content="End Time:" HorizontalAlignment="Left" Height="21.235" Margin="58.216,79.458,0,0" VerticalAlignment="Top" Width="79.261" HorizontalContentAlignment="Right"/>
+        <Label x:Name="label2" Content="Hour:" HorizontalAlignment="Left" Height="23.864" Margin="58.216,100.693,0,0" VerticalAlignment="Top" Width="79.261" ScrollViewer.CanContentScroll="True" HorizontalContentAlignment="Right"/>
+        <Button x:Name="btCheck" Content="Check" Margin="160.489,129.557,73.557,0" Click="check_Click" Height="25.136" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbStartTime" Height="23.863" Margin="160.489,55.595,73.557,0" TextWrapping="Wrap" VerticalAlignment="Top" ToolTip="Start time must be integer and between 0 and 23!" Text="22" PreviewTextInput="checkInputTime" TextChanged="checkTextChanged"/>
+        <TextBox x:Name="tbHour" Height="23.864" Margin="160.489,100.693,73.557,0" TextWrapping="Wrap" VerticalAlignment="Top" ToolTip="Hour must be integer and between 0 and 23!" PreviewTextInput="checkInputTime" TextChanged="checkTextChanged"/>
+        <TextBox x:Name="tbEndTime" Height="21.235" Margin="160.489,79.458,73.557,0" TextWrapping="Wrap" VerticalAlignment="Top" ToolTip="End time must be integer and between 0 and 23!" Text="5" PreviewTextInput="checkInputTime" TextChanged="checkTextChanged"/>
+        <Label x:Name="label2_Copy" Content="Result:" Margin="160.489,154.693,73.557,143" ScrollViewer.CanContentScroll="True" FontStyle="Oblique" FontWeight="Bold" RenderTransformOrigin="1,0" FontSize="14" d:LayoutOverrides="Width, LeftMargin, RightMargin"/>
+        <TextBlock x:Name="tbkResult" Margin="160.489,185,73.557,0" TextWrapping="Wrap" Height="128" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
