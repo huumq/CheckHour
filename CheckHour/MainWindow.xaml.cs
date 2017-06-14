@@ -39,7 +39,7 @@ namespace CheckHour
         private void checkInputTime(object sender, TextCompositionEventArgs e)
         {
             TextBox textbox = sender as TextBox;
-            tbkResult.Text = "";
+            tbkResult.Text = "123";
             if (!char.IsDigit(e.Text, e.Text.Length - 1))
             {
                 e.Handled = true;
